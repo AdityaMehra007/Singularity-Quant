@@ -1,0 +1,6 @@
+{
+  "name": "Singularity Quant",
+  "description": "Institutional financial operating system: L2 order book, BlackRock Aladdin risk, option Greeks, double-entry ledger, and AI graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
